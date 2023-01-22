@@ -19,7 +19,7 @@ Programa gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Habits" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,7 +37,7 @@ O Habits é um app que monitora seus hábitos diários.
 
 - [Acesse o projeto finalizado, online]
 
-utm_content=descricao-github-mayk-brito)
+
 
 ## 🔖 Layout
 
