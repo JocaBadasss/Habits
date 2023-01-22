@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que monitora seus hábitos diários.
 
-- [Visite o projeto online](https://jocabadasss.github.io/nlw-setup)
+- [Visite o projeto online](https://jocabadasss.github.io/Habits)
 
 ## 🔖 Layout
 
