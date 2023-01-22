@@ -35,12 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que monitora seus hábitos diários.
 
-- [Visite o projeto online](/Habits)
- 
-
-
-
+- [Visite o projeto online](https://jocabadasss.github.io/nlw-setup)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pojjXRdzsxTnElltJS98WE/Habits-(e)-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/pojjXRdzsxTnElltJS98WE/Habits-(e)-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
