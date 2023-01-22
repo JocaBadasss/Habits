@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app que monitora seus hábitos diários.
 
+- [Visite o projeto online](jocabadasss.github.io/Habits)
+ 
 - [Acesse o projeto finalizado, online]
 
 
