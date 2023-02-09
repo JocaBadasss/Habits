@@ -1,15 +1,15 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Programa gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+  A free app, promoted by Rocketseat to teach WEB technologies.
+ <br/>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Programa gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br
   <img alt="Projeto Habits" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,12 +31,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O Habits é um app que monitora seus hábitos diários.
+The habits is an app that monitors your daily habits.
 
-- [Visite o projeto online](https://jocabadasss.github.io/Habits)
+
+- [Visit the project online](https://jocabadasss.github.io/Habits)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/pojjXRdzsxTnElltJS98WE/Habits-(e)-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+ You can view the project layout through [DESSE LINK](<https://www.figma.com/file/pojjXRdzsxTnElltJS98WE/Habits-(e)-(Community)>). It is necessary to have a account on  [Figma](https://figma.com) To access.
