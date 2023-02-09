@@ -41,4 +41,4 @@ The habits is an app that monitors your daily habits.
 ## 🔖 Layout
 
 
- You can view the project layout through [DESSE LINK](<https://www.figma.com/file/pojjXRdzsxTnElltJS98WE/Habits-(e)-(Community)>). It is necessary to have a account on  [Figma](https://figma.com) To access.
+ You can view the project layout through [THIS LINK](<https://www.figma.com/file/pojjXRdzsxTnElltJS98WE/Habits-(e)-(Community)>). It is necessary to have a account on  [Figma](https://figma.com) To access.
